@@ -303,6 +303,20 @@ template {
 [hidden] {
   display: none; }
 
+h1 {
+  font-size: 36px;
+  margin-top: 80px; }
+
+h2 {
+  font-weight: normal; }
+
+ul {
+  margin-top: 40px;
+  font-size: 24px; }
+
+li {
+  margin-top: 20px; }
+
 .container {
   width: 85%;
   max-width: 1256px;
@@ -321,6 +335,8 @@ body {
 
 a {
   color: #873f2d; }
+  a:hover {
+    color: #873f2d; }
 
 @media screen and (max-width: 1200px) {
   html {
